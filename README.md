@@ -181,7 +181,7 @@ T² ∝ r³     (Kepler's Third Law)
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mhdthariq/PythonPyhsics.git
    cd PythonPhysics
    ```
 
